@@ -1,0 +1,1 @@
+<h2> You don't have sufficient permissions to access the administation panel </h2>

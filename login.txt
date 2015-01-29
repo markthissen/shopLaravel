@@ -1,0 +1,9 @@
+http://scotch.io/tutorials/simple-and-easy-laravel-login-authentication
+http://www.youtube.com/watch?v=L8yOuDvFNGQ
+http://laravel.com/docs/session
+
+http://laravelbook.com/laravel-user-authentication/
+
+http://laravel.com/docs/security
+
+https://medium.com/laravel-4/laravel-4-authentication-e8d93c9ce0e2
